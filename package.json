@@ -1,6 +1,6 @@
 {
   "name": "@kamicane/camelize",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "camelize & hyphenate",
   "main": "index.js",
   "repository": "github:kamicane/camelize",
