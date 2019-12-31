@@ -1,0 +1,12 @@
+{
+  "name": "camelize",
+  "version": "1.0.0",
+  "description": "camelize & hyphenate",
+  "main": "index.js",
+  "repository": "github:kamicane/camelize",
+  "author": "Valerio Proietti <kamicane@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
