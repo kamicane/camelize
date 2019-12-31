@@ -1,5 +1,5 @@
 {
-  "name": "camelize",
+  "name": "@kamicane/camelize",
   "version": "1.0.0",
   "description": "camelize & hyphenate",
   "main": "index.js",
@@ -8,5 +8,11 @@
   "license": "MIT",
   "devDependencies": {
     "standard": "^14.3.1"
-  }
+  },
+  "keywords": [
+    "camelcase",
+    "camelize",
+    "uncamelize",
+    "hyphenate"
+  ]
 }
